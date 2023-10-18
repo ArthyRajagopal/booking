@@ -1,0 +1,21 @@
+CRITICAL - 2023-04-06 04:44:28 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\services.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-06 04:44:52 --> Invalid file: services.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('services.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('services', [], true)
+ 3 APPPATH\Controllers\services.php(10): view('services')
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Services->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Services))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-06 04:44:53 --> Invalid file: services.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('services.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('services', [], true)
+ 3 APPPATH\Controllers\services.php(10): view('services')
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Services->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Services))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,80 @@
+ERROR - 2023-02-28 03:58:06 --> mysqli_sql_exception: Column 'slot' cannot be null in C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `bo...', 0)
+#1 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bo...')
+#2 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bo...')
+#3 C:\xampp\htdocs\booking\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bo...', Array, false)
+#4 C:\xampp\htdocs\booking\system\Model.php(303): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\booking\system\BaseModel.php(750): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\booking\system\Model.php(695): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\booking\system\BaseModel.php(660): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\booking\app\Controllers\Book.php(45): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\booking\system\CodeIgniter.php(925): App\Controllers\Book->store()
+#10 C:\xampp\htdocs\booking\system\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#11 C:\xampp\htdocs\booking\system\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\booking\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2023-02-28 04:12:55 --> mysqli_sql_exception: Column 'slot' cannot be null in C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `bo...', 0)
+#1 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bo...')
+#2 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bo...')
+#3 C:\xampp\htdocs\booking\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bo...', Array, false)
+#4 C:\xampp\htdocs\booking\system\Model.php(303): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\booking\system\BaseModel.php(750): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\booking\system\Model.php(695): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\booking\system\BaseModel.php(660): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\booking\app\Controllers\Book.php(45): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\booking\system\CodeIgniter.php(925): App\Controllers\Book->store()
+#10 C:\xampp\htdocs\booking\system\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#11 C:\xampp\htdocs\booking\system\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\booking\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2023-02-28 04:35:56 --> mysqli_sql_exception: Column 'slot' cannot be null in C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `bo...', 0)
+#1 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bo...')
+#2 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bo...')
+#3 C:\xampp\htdocs\booking\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bo...', Array, false)
+#4 C:\xampp\htdocs\booking\system\Model.php(303): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\booking\system\BaseModel.php(750): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\booking\system\Model.php(695): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\booking\system\BaseModel.php(660): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\booking\app\Controllers\Book.php(45): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\booking\system\CodeIgniter.php(925): App\Controllers\Book->store()
+#10 C:\xampp\htdocs\booking\system\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#11 C:\xampp\htdocs\booking\system\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\booking\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2023-02-28 04:38:56 --> mysqli_sql_exception: Column 'slot' cannot be null in C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `bo...', 0)
+#1 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bo...')
+#2 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bo...')
+#3 C:\xampp\htdocs\booking\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bo...', Array, false)
+#4 C:\xampp\htdocs\booking\system\Model.php(303): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\booking\system\BaseModel.php(750): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\booking\system\Model.php(695): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\booking\system\BaseModel.php(660): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\booking\app\Controllers\Book.php(45): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\booking\system\CodeIgniter.php(925): App\Controllers\Book->store()
+#10 C:\xampp\htdocs\booking\system\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#11 C:\xampp\htdocs\booking\system\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\booking\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2023-02-28 04:41:14 --> mysqli_sql_exception: Column 'slot' cannot be null in C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\booking\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `bo...', 0)
+#1 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bo...')
+#2 C:\xampp\htdocs\booking\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bo...')
+#3 C:\xampp\htdocs\booking\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bo...', Array, false)
+#4 C:\xampp\htdocs\booking\system\Model.php(303): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\booking\system\BaseModel.php(750): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\booking\system\Model.php(695): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\booking\system\BaseModel.php(660): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\booking\app\Controllers\Book.php(45): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\booking\system\CodeIgniter.php(925): App\Controllers\Book->store()
+#10 C:\xampp\htdocs\booking\system\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Book))
+#11 C:\xampp\htdocs\booking\system\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\booking\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}

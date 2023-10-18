@@ -1,0 +1,727 @@
+CRITICAL - 2023-03-23 01:03:01 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:05 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:47 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:48 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:49 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:49 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:49 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:49 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:50 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:50 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:50 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:50 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:03:51 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Dashboards.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:26:42 --> Unmatched '}'
+in APPPATH\Controllers\Dashboards.php on line 103.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:28:06 --> Cannot redeclare App\Controllers\Dashboards::index()
+in APPPATH\Controllers\Dashboards.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-23 01:28:08 --> Cannot redeclare App\Controllers\Dashboards::index()
+in APPPATH\Controllers\Dashboards.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-23 01:28:10 --> Cannot redeclare App\Controllers\Dashboards::index()
+in APPPATH\Controllers\Dashboards.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-23 01:28:10 --> Cannot redeclare App\Controllers\Dashboards::index()
+in APPPATH\Controllers\Dashboards.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-23 01:28:20 --> Cannot redeclare App\Controllers\Dashboards::index()
+in APPPATH\Controllers\Dashboards.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-23 01:28:58 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:29:32 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:29:34 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:29:35 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:29:35 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:29:35 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:29:35 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:28 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:29 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:29 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:30 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:30 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:30 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:31 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:31 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:35 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:36 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:36 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:36 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:37 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:37 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:37 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:38 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:38 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:39 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:39 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:40 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:40 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:40 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:40 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:41 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:41 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:41 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:41 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 01:30:42 --> Undefined property: App\Controllers\Dashboards::$db
+in APPPATH\Controllers\Dashboards.php on line 98.
+ 1 APPPATH\Controllers\Dashboards.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Dashboards::$db', 'APPPATH\\Controllers\\Dashboards.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:04:41 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:04:43 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:06:49 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:06:52 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:06:53 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:06:56 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:06:58 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:07:30 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:11:04 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:19 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:21 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:21 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:22 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:22 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:22 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:23 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:23 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:28 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:32 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:33 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:34 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:34 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:35 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:15:36 --> Undefined variable $cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:17:02 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:17:03 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:17:04 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:17:04 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:17:05 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:17:05 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 05:17:05 --> Undefined variable $Cbookm
+in APPPATH\Views\viewmore.php on line 28.
+ 1 APPPATH\Views\viewmore.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\viewmore.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\viewmore.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('viewmore', [], true)
+ 5 APPPATH\Controllers\Viewmore.php(19): view('viewmore', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Viewmore->viewindex('1')
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Viewmore))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

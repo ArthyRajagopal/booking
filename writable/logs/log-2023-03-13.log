@@ -1,0 +1,66 @@
+CRITICAL - 2023-03-13 02:19:08 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\Dashboards.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-13 02:34:53 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 58.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 02:35:12 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 58.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 02:35:12 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 58.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 02:36:07 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 58.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 02:36:08 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 58.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 02:36:09 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 58.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 05:09:22 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 60.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

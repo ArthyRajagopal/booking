@@ -1,0 +1,39 @@
+CRITICAL - 2023-04-25 11:25:32 --> syntax error, unexpected token "->"
+in APPPATH\Controllers\Register.php on line 64.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Register.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Register')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Register')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Register', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-25 21:53:37 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): Unable to connect to smtp.gmail.com:587 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) in C:\xampp\htdocs\booking\system\Email\Email.php:1864
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): Un...', 'C:\\xampp\\htdocs...', 1864)
+#1 C:\xampp\htdocs\booking\system\Email\Email.php(1864): fsockopen('smtp.gmail.com', 587, NULL, NULL, 60)
+#2 C:\xampp\htdocs\booking\system\Email\Email.php(1778): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\booking\system\Email\Email.php(1663): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\booking\system\Email\Email.php(1561): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\booking\app\Controllers\Cbook.php(107): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\booking\system\CodeIgniter.php(925): App\Controllers\Cbook->store()
+#7 C:\xampp\htdocs\booking\system\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cbook))
+#8 C:\xampp\htdocs\booking\system\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\booking\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-04-25 21:53:37 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 21:53:37 --> 
+ERROR - 2023-04-25 21:55:14 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): Unable to connect to smtp.gmail.com:587 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) in C:\xampp\htdocs\booking\system\Email\Email.php:1864
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): Un...', 'C:\\xampp\\htdocs...', 1864)
+#1 C:\xampp\htdocs\booking\system\Email\Email.php(1864): fsockopen('smtp.gmail.com', 587, NULL, NULL, 60)
+#2 C:\xampp\htdocs\booking\system\Email\Email.php(1778): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\booking\system\Email\Email.php(1663): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\booking\system\Email\Email.php(1561): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\booking\app\Controllers\Cbook.php(107): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\booking\system\CodeIgniter.php(925): App\Controllers\Cbook->store()
+#7 C:\xampp\htdocs\booking\system\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cbook))
+#8 C:\xampp\htdocs\booking\system\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\booking\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-04-25 21:55:14 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 21:55:14 --> 

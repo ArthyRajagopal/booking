@@ -1,0 +1,328 @@
+CRITICAL - 2023-03-21 01:27:56 --> Undefined array key "ID"
+in APPPATH\Views\dashboards.php on line 47.
+ 1 APPPATH\Views\dashboards.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ID"', 'APPPATH\\Views\\dashboards.php', 47)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 01:45:53 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\Dashboards.php on line 73.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(260): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Dashboards.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(238): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Dashboards')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Dashboards')
+ 4 SYSTEMPATH\CodeIgniter.php(875): class_exists('\\App\\Controllers\\Dashboards', true)
+ 5 SYSTEMPATH\CodeIgniter.php(467): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 02:26:14 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 41.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:45:58 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 116.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:46:14 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 116.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:49:48 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 117.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:50:16 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 116.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:50:17 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 116.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:51:17 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 116.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:51:27 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 116.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:51:28 --> syntax error, unexpected end of file
+in APPPATH\Views\dashboards.php on line 116.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:52:42 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 37.
+ 1 APPPATH\Views\dashboards.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 37)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:52:43 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 37.
+ 1 APPPATH\Views\dashboards.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 37)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:52:50 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 37.
+ 1 APPPATH\Views\dashboards.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 37)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:53:56 --> Undefined array key "name"
+in APPPATH\Views\dashboards.php on line 42.
+ 1 APPPATH\Views\dashboards.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\dashboards.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:53:57 --> Undefined array key "name"
+in APPPATH\Views\dashboards.php on line 42.
+ 1 APPPATH\Views\dashboards.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\dashboards.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:53:59 --> Undefined array key "name"
+in APPPATH\Views\dashboards.php on line 42.
+ 1 APPPATH\Views\dashboards.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\dashboards.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:13:40 --> Undefined array key "name"
+in APPPATH\Views\dashboards.php on line 42.
+ 1 APPPATH\Views\dashboards.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\dashboards.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:34:13 --> Undefined array key "name"
+in APPPATH\Views\dashboards.php on line 42.
+ 1 APPPATH\Views\dashboards.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\dashboards.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:34:14 --> Undefined array key "name"
+in APPPATH\Views\dashboards.php on line 42.
+ 1 APPPATH\Views\dashboards.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\dashboards.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:34:14 --> Undefined array key "name"
+in APPPATH\Views\dashboards.php on line 42.
+ 1 APPPATH\Views\dashboards.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'APPPATH\\Views\\dashboards.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:57:17 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 35.
+ 1 APPPATH\Views\dashboards.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:59:38 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:59:39 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:59:40 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:59:40 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:59:41 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:59:41 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:01:47 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:01:48 --> Undefined variable $Cbookm
+in APPPATH\Views\dashboards.php on line 36.
+ 1 APPPATH\Views\dashboards.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Cbookm', 'APPPATH\\Views\\dashboards.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\dashboards.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 5 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 7 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:02:54 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 37.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:02:56 --> syntax error, unexpected token ";"
+in APPPATH\Views\dashboards.php on line 37.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('dashboards', [], true)
+ 3 APPPATH\Controllers\Dashboards.php(28): view('dashboards', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(925): App\Controllers\Dashboards->index()
+ 5 SYSTEMPATH\CodeIgniter.php(480): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboards))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
